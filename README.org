@@ -1,0 +1,4 @@
+* Find-line
+  A Common lisp utility script for finding lines in a file matching a regexp
+* Usage
+  - dont' use it
